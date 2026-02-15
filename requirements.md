@@ -1,8 +1,8 @@
-# Requirements Document: CreatorMind Platform
+# Requirements Document: Vistaar.ai Platform
 
 ## Introduction
 
-CreatorMind is an AI-native creator intelligence platform for India's 500M+ regional language content creators. It provides predictive analytics, regional trend intelligence, and multilingual production capabilities to help creators in Tier 2/3 cities expand their reach across Hindi, Tamil, Telugu, Bengali, Marathi, Kannada, Malayalam, Gujarati, and Punjabi audiences.
+Vistaar.ai is an AI-native creator intelligence platform for India's 500M+ regional language content creators. It provides predictive analytics, regional trend intelligence, and multilingual production capabilities to help creators in Tier 2/3 cities expand their reach across Hindi, Tamil, Telugu, Bengali, Marathi, Kannada, Malayalam, Gujarati, and Punjabi audiences.
 
 ## Problem Statement
 
@@ -24,7 +24,7 @@ Secondary: Emerging creators (10K-50K subscribers) seeking data-driven content v
 - **Semantic_Embedding**: Vector representation using Amazon Titan
 - **Thematic_Cluster**: Content categories from k-means clustering
 - **Voice_Clone**: AI voice matching creator's characteristics across languages
-- **System**: The CreatorMind platform
+- **System**: The Vistaar.ai platform
 - **Creator**: User of the platform
 - **YouTube_API**: YouTube Data API v3 and Analytics API
 - **Amazon_Bedrock**: AWS managed AI service

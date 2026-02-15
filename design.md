@@ -1,8 +1,8 @@
-# Design Document: CreatorMind Platform
+# Design Document: Vistaar.ai Platform
 
 ## Overview
 
-CreatorMind is an AI-native platform architected as a microservices system leveraging AWS managed services for AI capabilities. The platform processes creator content through a pipeline of semantic analysis, predictive modeling, and multilingual production to deliver actionable intelligence and production-ready assets.
+Vistaar.ai is an AI-native platform architected as a microservices system leveraging AWS managed services for AI capabilities. The platform processes creator content through a pipeline of semantic analysis, predictive modeling, and multilingual production to deliver actionable intelligence and production-ready assets.
 
 The system is designed for horizontal scalability, supporting growth from 100 to 50,000 users while maintaining sub-500ms API response times and 99.5% uptime.
 
@@ -727,7 +727,7 @@ Property 62: Notification Preference Respect
 ### Property-Based Testing
 - **Python**: Hypothesis library, min 100 examples per test
 - **TypeScript**: fast-check library, min 100 runs per test
-- **Tag Format**: Feature: creatormind-platform, Property {number}: {property_text}
+- **Tag Format**: Feature: Vistaar.ai-platform, Property {number}: {property_text}
 - All 62 correctness properties implemented as property tests
 
 ### Coverage Requirements
